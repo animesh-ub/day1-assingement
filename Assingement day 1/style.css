@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.intro-img {
+    text-align: center;
+    padding: 10px;
+}
+
+figure img {
+    width: 960px;
+    height: 275px;
+    margin: auto;
+}
+
+nav ul > li {
+    display:inline;  
+    color: blueviolet;
+    font-weight: 300;
+}    
+
+nav ul {
+    text-align: center;
+}
+nav ul li a {
+    text-decoration: none;
+}   
+.section1{
+    /* background-color: blue; */
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.items{
+    display: inline;
+    /* background-color: aqua; */
+    /* padding: 10px; */
+   
+}
+.items img{
+    width: 180px;
+    height: 200px;  
+    border: 1px solid #333;
+}
+
+/****************** ABOUT US *****************/
+
+.section2 {
+
+    margin-left: 8px;
+}
+
+.section2 h1 {
+    color: gray;
+    font-size: 20pt;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 500;
+}
+
+
+/****************** CONTACT US *****************/
+
+
+.section3 {
+    margin-left: 8px;
+}
+
+.section3 h1{
+    color: green;
+    font-size: 20pt;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 500;
+}
+
+.address-list{
+    padding-left: 32px;
+}
+
+.address-list ul li{
+    list-style: circle;
+}
+
+.office-details{
+    padding-left: 32px;
+}
+.office-details li{
+    list-style: circle;
+}
+
+
